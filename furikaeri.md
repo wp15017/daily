@@ -4,7 +4,7 @@
 
 ###　Keep（今後も続けること）
 
-- 合間にタイピング練習！！
+- 合間に<a href="http://www.seikoutyping.com/index.php?shosinshatyping">一行タイピング</a>練習！！
 -　ショートカット活用
 
 ###　Problem（問題なので、やめること）
