@@ -2,7 +2,11 @@
 	"folders":
 	[
 		{
+<<<<<<< HEAD
 			"path": "C:\\Users\\tpi\\Documents\\html.basic1"
+=======
+			"path": "."
+>>>>>>> 395ee2909c018343a94c266c5cf495f701788fba
 		}
 	]
 }
