@@ -1,5 +1,22 @@
 # 振り返り
 
+##　09/09
+
+###　Keep（今後も続けること）
+
+-　Sublimeを使いこなせるようにする。
+-　Sublimeショートカット活用。
+- 合間に<a href="http://www.seikoutyping.com/index.php?shosinshatyping">一行タイピング</a>練習！！
+
+###　Tweet（つぶやき）
+
+-　本日よりPC用メガネを着用、効果あるのか！？
+
+###　Try（今後、試してみたいこと）
+
+-　タイピン練習あるのみ。
+
+
 ##　09/08
 
 ###　Keep（今後も続けること）
