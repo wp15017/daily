@@ -5,8 +5,8 @@
 
 ###　Keep（今後も続けること）
 
--　CSSを使いこなせるようにする。
--　Sublimeショートカット活用。
+-　CSSを使いこなせるようにする。<br>
+-　Sublimeショートカット活用。<br>
 - 合間に<a href="http://www.seikoutyping.com/index.php?shosinshatyping">一行タイピング</a>練習！！
 
 ###　Tweet（つぶやき）
