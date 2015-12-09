@@ -1,6 +1,17 @@
 # 振り返り
 
 
+## 12/09 wed
+
+### keep
+
+- タイピン。
+
+### Try
+
+- insert into MyHEAD(SQL,PHP,jQ,JS);
+
+
 ## 12/07 mon
 
 ### keep
